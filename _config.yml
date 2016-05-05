@@ -2,6 +2,7 @@ name: RedEarthResources
 favicon: null
 layout_spectrum: 0.23667228478007019
 typography_spectrum: 0.25530548323877156
+title: Red Earth Resources
 cta:
   domain: null
   bucket: null
